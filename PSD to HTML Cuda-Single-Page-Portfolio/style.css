@@ -1,0 +1,100 @@
+* {margin:0;padding:0}
+body {font-size:18px;background-color:black}
+.main{width:1440px;margin:10px auto}
+.fix{overflow:hidden}
+.struct{width:1100px;margin:0px auto}
+.floatleft{float:left}
+.floatright{float:right}
+.floatcenter{text-align:center}
+.bodystr{margin:0px 40px 0px 40px}
+
+.welcome_area{background-color:#87509c}
+.welcome{margin-top:40px}
+.logo{}
+.topmenu{}
+.topmenu ul{list-style:none}
+.topmenu ul li{float:left;padding:0px;margin:0px;}
+.topmenu ul li a{display: block;padding: 7px;text-decoration: none;color:#ffffff;font-size:14pt;margin-left:15px}
+.topmenu ul li a:hover{background-color:#643a79;border-radius:5px}
+.welcomebody{margin-top: 130px;}
+.welcomebody p{font-size:42.16px;font-weight:bold;color:#f7f3ea}
+#workusbt{width:295px;height:65px;background-color:#eb7d4b;color:#ffffff;font-size:18px;border:0px;border-radius:5px;border-bottom:5px solid #000000;margin:50px 0px 125px 0px;}
+
+.services_area{background-color:#17c2a4}
+.services{margin-top:115px;color:#ffffff}
+.servhead{}
+.servhead h1{font-size:40px}
+.servhead img{margin-bottom:10px}
+.servbody{margin-top:80px;margin-bottom:125px}
+.branding,.design,.devlopment,.rocket{width:260px}
+.branding,.design,.devlopment{margin-right:20px}
+
+.branding p,.design p,.devlopment p,.rocket p{font-size:16px;width:200px;margin:0px 30px}
+.branding img,.design img,.devlopment img,.rocket img{margin-bottom:40px}
+.serbodyheading{font-size:24px;margin-bottom:10px}
+
+.team_area{background-color:#e7f1f8;color:#3c4761}
+.team{margin:115px auto}
+.teamhead{}
+.teamhead h1{font-size:41.29px}
+.teamhead img{margin-bottom:10px}
+.teambody{margin-top:80px;}
+.teambodyheading{font-size:24px;color:#27283d}
+.desegnation{font-size:16px;color:#30bae7;margin-bottom:15px}
+.speace p{font-size:16px;width:200px;margin-left:30px;margin-right:30px;}
+.speace,.kate,.olivia,.ashley{width:260px}
+.anne,.kate,.olivia{margin-right:20px}
+.speace img{margin-bottom:40px}
+
+.membersocialcon{margin-top:35px;height:50px}
+.membersocialcon ul{text-align:center;list-style:none;margin:0px;padding:0px}
+.membersocialcon ul li{display:inline;padding:5px;}
+.membersocialcon ul li a{background-color:#bdd1df;padding:0px;display:inline-block;width:30px;height:30px;border-radius:15px;}
+.membersocialcon ul li a img{margin-top:8px}
+.membersocialcon ul li a:hover{background-color: #30bae7;}
+
+.skill_area{background-color:#ffffff}
+.skill{margin:115px auto}
+.skillhead{}
+.skillhead h1{}
+.skillhead img{margin-bottom:10px}
+.skillhead p{font-size:18px}
+.skillbody{margin-top:80px}
+.webdesign,.html,.graphic,.ui{width:260px}
+.webdesign,.html,.graphic{margin-right:20px}
+.skillbodyheading{font-size:24px;color:#3c4761;margin-top:20px;text-transform:uppercase}
+.progress{font-size:50px;margin: -110px 0px 73px 0px;}
+
+.protofolio_area{background-color:#ffdd99}
+.proto{margin:115px auto}
+.protohead img{margin-bottom:10px}
+.protomenu{margin-top:40px}
+.protomenu ul{margin:0px;padding:0px;list-style:none;text-align:center}
+.protomenu ul li{float:lest;display:inline}
+.protomenu ul li a{display:inline-block;background:#ebc985;color:#393939;text-decoration:none;padding:5px;border-radius:5px;width:85px}
+.protomenu ul li a:hover{background:#ffffff}
+.protobody{color:#393939;text-align:center}
+.protoimg{width:540px;height:355px;margin-top:65px;text-align:center}
+.protoimg p{margin:20px 0px 20px 0px}
+#moreprobtn{margin-top:40px;width:290px;height:65px;border:0px;background-color:#17c2a4;border-bottom:5px solid #14b894;color:#ffffff;border-radius:5px}
+
+.testimonial_area{background-color:#d74680}
+.testimonial{margin-top:115px;color:#ffffff}
+.testihead{margin-bottom:20px}
+.testihead h1{font-size:41px}
+.testibody{margin-top:80px}
+.testibodyimg{width:150px;height:96px}
+.chanel,.andriana,.anne,.emma{width:540px;margin-bottom:85px}
+.testibodyspece{width:315px}
+.testidesignation{color:#ffdd99;font-size:16px}
+.testibodyspece p{margin-bottom:20px;text-transform:italic;font-size:21px}
+.testibodyspece h3{font-size:24px}
+
+.contact_area{background-color:#3c5499;color:#ffffff;font-size:18px}
+.contact{margin:115px auto}
+.conhead{}
+.conhead h1{font-size:41px}
+.conhead img{margin-bottom:20px}
+#conname{width:380px;height:30px;margin:80px 45px 20px 0px;padding:15px;border-radius:5px;background-color:#273a71;color:#ffffff;border:0px}
+#conemail{width:380px;height:30px;margin:80px 0px 0px 0px;padding:15px;border-radius:5px;background-color:#273a71;color:#ffffff;border:0px}
+#conmess{width:840px;padding:15px;border-radius:5px;height:190px;background-color:#273a71;color:#ffffff;border:0px}
